@@ -1,3 +1,10 @@
+# DEPRECATED
+
+Please see [thisismetis/dsp](https://github.com/thisismetis/dsp).
+
+Earlier version follows:
+
+
 # Metis Data Science Bootcamp Prework
 
 Welcome! Congratulations on your acceptance. We hope you are really
